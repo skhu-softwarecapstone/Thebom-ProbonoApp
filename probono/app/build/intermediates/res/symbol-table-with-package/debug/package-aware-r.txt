@@ -1408,7 +1408,9 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_login
 layout activity_main
+layout activity_social
 layout appbar
+layout blind_fragment
 layout calendar_layout
 layout custom_dialog
 layout dailylog_page_fragment
